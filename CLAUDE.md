@@ -54,9 +54,3 @@ Steps 1–9 build the app incrementally:
 7. Add expense
 8. Edit expense
 9. Delete expense
-
-## SSH / Git
-
-Two GitHub accounts via SSH host aliases in `~/.ssh/config`:
-- Personal (`ajha264538`): `git@ajha_github:aniket264538/<repo>.git`
-- Work (Prolifics): `git@ajha_prolifics_github:<org>/<repo>.git`
